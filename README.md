@@ -1,5 +1,5 @@
 # TFA-Final-Project_Gloria-Isha
-Final project for IEOR E4501 Tools for Analytics.
+/n Final project for IEOR E4501 Tools for Analytics.
 Gloria Li/jl6554 & Isha Yadav/iy2196
 **Project Overview**
 **Problem statement**: Let’s say your apartment lease is ending at the end of the year, and you need to find a new apartment. There are a lot of criteria you can use to help find a neighborhood you’d like to live in. One thing you care a lot about is a quiet neighborhood with a lot of greenery. 
