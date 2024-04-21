@@ -1,8 +1,7 @@
 # TFA-Final-Project_Gloria-Isha <br>
 Final project for IEOR E4501 Tools for Analytics. <br>
 
-**Creators** <br>
-Gloria Li/jl6554 & Isha Yadav/iy2196 <br>
+**Creators**: Gloria Li/jl6554 & Isha Yadav/iy2196 <br>
 
 **Project Overview** <br>
 
