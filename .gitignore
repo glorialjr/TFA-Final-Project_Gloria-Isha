@@ -1,1 +1,19 @@
 
+.DS_Store
+data/nyc_zipcodes.dbf
+data/nyc_zipcodes.prj
+data/nyc_zipcodes.sbn
+data/nyc_zipcodes.sbx
+data/nyc_zipcodes.shp
+data/nyc_zipcodes.shp.xml
+data/nyc_zipcodes.shx
+data/zillow_rent_data.csv
+queries/311complaints_per_zipcode.sql
+queries/mosttrees_per_zipcode.sql
+queries/mosttrees_average_rent_byzipcode_jan24.sql
+queries/corr_rent_tree_complaint.sql
+queries/mosttrees_per_zipcode_polygonboundary.sql
+queries/trees_immediate_area.sql
+schema.sql
+.ipynb_checkpoints
+.gitattributes
